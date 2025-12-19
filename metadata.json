@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Trivia Host",
+  "description": "An interactive trivia game featuring a dynamic AI host with user-selected personalities, powered by Gemini Live API and Google Search grounding.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
